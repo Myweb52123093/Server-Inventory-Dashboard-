@@ -1,2 +1,2 @@
-# Server-Inventory-Dashboard-
+# Server-Inventory-Dashboard
 My Bits_Project
